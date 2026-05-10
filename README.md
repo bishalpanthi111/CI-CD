@@ -1,5 +1,9 @@
 # Full Stack open CI/CD
 
+# fs-pokedex
+
+App deployed at: https://ci-cd-5mjh.onrender.com
+
 This repository is used for the CI/CD module of the Full Stack Open course
 
 ## Commands
