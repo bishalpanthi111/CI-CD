@@ -1,4 +1,4 @@
-/* global require, module */
+/* global require */
 const { test, describe, expect } = require('@playwright/test')
 
 describe('Pokedex', () => {
