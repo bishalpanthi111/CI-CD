@@ -2,7 +2,8 @@
 
 # fs-pokedex
 
-App deployed at: https://ci-cd-5mjh.onrender.com
+# App deployed at: https://ci-cd-5mjh.onrender.com
+# My cicd app deployed link: https://my-cicd-app-e6wn.onrender.com
 
 This repository is used for the CI/CD module of the Full Stack Open course
 
